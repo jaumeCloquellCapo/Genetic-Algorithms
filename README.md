@@ -1,8 +1,8 @@
 # Introduction to genetic algorithms
 
-## What is it?
+[Blog Post](https://jaumecloquellcapo.github.io/jaumeCloquellCapo.github.io/introduccion-a-los-algoritmos-geneticos.html)
 
-It's a group of algorithms aimed at optimization problems inspired by (a very simple interpretation of) the evolution theory. Most of those algorithms a heuristic or stochastic trial-and-error techniques.
+## What is it?
 
 The main idea is to create a population of individuals and loop through a succession of survival selection, mating, mutation and generation of a new population, derived from the former one, so we can iteratively aproximate the an ideal or sufficiently acceptable solution to the problem.
 
